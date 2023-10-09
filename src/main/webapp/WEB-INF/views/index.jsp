@@ -7,7 +7,7 @@
 	<div class="container mt-3">
 		<div class="row">
 			<div class="col md-12">
-				<h1 class="text-center">Welcome to product App</h1>
+				<h1 class="text-center">Welcome manash</h1>
 				<table class="table table-striped mt-5">
 					<thead>
 						<tr>
